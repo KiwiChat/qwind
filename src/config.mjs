@@ -2,9 +2,9 @@ export const SITE = {
   name: "Qwind",
 
   title:
-    "Qwind — Free template for Qwik + Tailwind CSS to build your new website.",
+    "BaiatRau",
   description:
-    "Qwind is a free and ready to start template to make your website using Qwik and Tailwind CSS.",
+    "BaiatRau personal website",
 
   origin: "https://baiatrau.pages.dev",
   basePathname: "/",
